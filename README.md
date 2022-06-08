@@ -1,4 +1,4 @@
-# Keyboard touch WT32-SC01
+# QR Maker WT32-SC01 Arduino
 
 
 - Board : WT32-SC01 from Wireless Tag (Seeed Studio also carries the same)  
