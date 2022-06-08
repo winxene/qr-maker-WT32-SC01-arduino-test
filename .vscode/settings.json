@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lv_gif.h": "c",
+        "gifdec.h": "c"
+    }
+}
